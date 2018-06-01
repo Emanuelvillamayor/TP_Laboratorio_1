@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1527635019 source:c:\users\manu\desktop\tp 3\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1527635019 c:\users\manu\desktop\tp 3\funciones.h
+
+1527634317 source:c:\users\manu\desktop\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527728078 source:c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1527724237 c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3\funciones.h
+
+1527727686 source:c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527775564 source:c:\users\alumno\desktop\tp 3\tp 3\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1527775585 c:\users\alumno\desktop\tp 3\tp 3\funciones.h
+
+1527769717 source:c:\users\alumno\desktop\tp 3\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527769718 source:c:\users\manu\desktop\tp 3\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527802827 c:\users\manu\desktop\tp 3\tp 3\funciones.h
+
+1527803691 source:c:\users\manu\desktop\tp 3\tp 3\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1527804103 source:c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3,emanuel villamayor\tp 3\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1527806293 c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3,emanuel villamayor\tp 3\funciones.h
+
+1527769718 source:c:\users\manu\desktop\manu\programacion\tps\tp 3\tp 3,emanuel villamayor\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
